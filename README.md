@@ -1,4 +1,3 @@
-
 # Why this is
 I like fractal pics. That's the reason.
 
@@ -11,7 +10,7 @@ Precisions hurt. As the zoomable version shows, the uncertainty is being
 unacceptable since the zoom level reach 16.0x.
 
 # Usage
-Two programs are there:
+Two programs are there
 ## Zoomable
 Requirement:
 	- gem: rubygame
@@ -29,6 +28,9 @@ Run:
 ```bash
 ruby mandelbrot.rb
 ```
+
+# Result
+![mandelbrot](https://raw.github.com/shouya/mandelbrot/master/mandelbrot.png)
 
 # License
 WTFPL
